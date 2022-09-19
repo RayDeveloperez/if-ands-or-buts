@@ -35,3 +35,8 @@ console.log("Player 2 WINS")
 } else if ( Player2 === "paper") {
 console.log("DRAW")}
 }
+
+if (Player1 || Player2 !== "scissors", "paper", "rock"){
+    console.log("Error")}
+
+    
